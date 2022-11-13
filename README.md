@@ -1,4 +1,4 @@
-# Physics Simulation using Pymunk & Pygame
+# Physics Simulation using Pymunk & Pygame 🎮
 
 
 <h2>Project Overview</h2>
